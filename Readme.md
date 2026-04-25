@@ -6,7 +6,6 @@ This project represents an end-to-end data analytics workflow including data cle
 ## Task 1: Data Wrangling
 - Cleaned and prepared dataset
 - Handled missing values and inconsistencies
-- repo link - https://github.com/Pulkit671/task1-data-wrangling.git
 
 ## Task 2: Exploratory Data Analysis
 - Performed statistical analysis
